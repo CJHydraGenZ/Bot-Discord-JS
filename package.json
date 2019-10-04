@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/CJHydraGenZ/Bot-Discord-JS#readme",
   "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.5",
     "nodemon": "^1.19.3"
   }
 }
